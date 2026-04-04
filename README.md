@@ -1,1 +1,1 @@
-Research Assistantg
+Research Assistant
