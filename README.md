@@ -81,9 +81,3 @@ mvn spring-boot:run
 * Focused on DSA & Product-Based Companies
 
 ---
-
-## ⭐ Contribute
-
-Feel free to fork the repository and submit pull requests.
-
----
