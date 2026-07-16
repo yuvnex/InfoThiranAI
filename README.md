@@ -32,12 +32,6 @@ InfoThiran AI is a smart research assistant designed to help users quickly under
 
 ---
 
-## 📷 Demo
-
-> Currently not deployed. You can run the project locally.
-
----
-
 ## ⚙️ Installation
 
 ```bash
