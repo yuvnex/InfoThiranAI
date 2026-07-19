@@ -4,16 +4,6 @@
 
 InfoThiran AI is a smart research assistant designed to help users quickly understand and summarize online content. It simplifies complex information into concise insights, improving productivity and learning efficiency.
 
----
-
-## 🚀 Features
-
-* 📄 Summarizes web content into short, meaningful notes
-* ⚡ Reduces reading time and improves understanding
-* 🧠 Generates structured insights for better learning
-* 🌐 Works as a browser-based tool for quick access
-
----
 
 ## 🛠️ Tech Stack
 
